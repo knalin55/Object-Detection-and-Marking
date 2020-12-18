@@ -1,2 +1,2 @@
-# Object_Detection_-_Marking
+# Object Detection and Marking
 SciPy2020 Workshop
